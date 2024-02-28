@@ -1,14 +1,3 @@
-# Keep this file separate
-
-# https://www.pg4e.com/code/hidden-dist.py
-
-# psql -h pg.pg4e.com -p 5432 -U pg4e_be9e729093 pg4e_be9e729093
-
-# %load_ext sql
-# %config SqlMagic.autocommit=False
-# %sql postgresql://pg4e_be9e729093:pg4e_p_d5fab7440699124@pg.pg4e.com:5432/pg4e_be9e729093
-# %sql SELECT 1 as "Test"
-
 def secrets():
     return {"host": "XXXX", # Insert correct values
 

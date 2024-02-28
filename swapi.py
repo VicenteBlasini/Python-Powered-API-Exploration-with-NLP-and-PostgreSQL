@@ -1,14 +1,3 @@
-# https://www.pg4e.com/code/swapi.py
-# https://www.pg4e.com/code/myutils.py
-
-# If needed:
-# https://www.pg4e.com/code/hidden-dist.py
-# copy hidden-dist.py to hidden.py
-# edit hidden.py and put in your credentials
-
-# python3 swapi.py
-# Pulls data from the swapi.py4e.com API and puts it into our swapi table
-
 import psycopg2
 import hidden
 import time

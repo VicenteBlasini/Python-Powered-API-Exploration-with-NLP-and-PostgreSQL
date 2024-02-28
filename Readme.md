@@ -1,8 +1,8 @@
-# Python-Powered PokeAPI Exploration with NLP and PostgreSQL
+# Python-Powered API Exploration with NLP and PostgreSQL
 
 ## Overview
 
-This repository contains Python scripts for exploring the PokeAPI, performing Natural Language Processing (NLP) tasks, and storing the data in a PostgreSQL database. The project demonstrates how to fetch data from an API, analyze text using NLP techniques, and interact with a relational database.
+This repository contains Python scripts for exploring the API, performing Natural Language Processing (NLP) tasks, and storing the data in a PostgreSQL database. The project demonstrates how to fetch data from an API, analyze text using NLP techniques, and interact with a relational database.
 
 ## Files
 

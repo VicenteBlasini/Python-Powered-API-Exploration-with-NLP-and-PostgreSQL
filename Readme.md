@@ -6,8 +6,8 @@ This repository contains Python scripts for exploring the PokeAPI, performing Na
 
 ## Files
 
-1. **1era_Prueba.py**:
-   - This Python script connects to the PokeAPI and fetches data for 100 Pokémon.
+1. **pokemon.py**:
+   - This Python script connects to the PokeAPI and fetches data for # Pokémon.
    - It then stores the fetched data in a PostgreSQL database.
    - The script demonstrates fetching data from an API, working with JSON data, and interacting with a PostgreSQL database.
 
@@ -22,11 +22,6 @@ This repository contains Python scripts for exploring the PokeAPI, performing Na
 4. **swapi.py**:
    - This Python script pulls data from the swapi.py4e.com API and inserts it into a PostgreSQL table named 'swapi'.
    - It demonstrates fetching data from an external API, handling HTTP requests, and interacting with a PostgreSQL database.
-
-5. **pokemon.py**:
-   - Similar to `1era_Prueba.py`, this script connects to the PokeAPI and fetches data for 100 Pokémon.
-   - It stores the fetched data in a PostgreSQL database table named 'pokeapi'.
-   - The script follows a similar structure to `1era_Prueba.py` but might include slight variations or improvements.
 
 ## Usage
 

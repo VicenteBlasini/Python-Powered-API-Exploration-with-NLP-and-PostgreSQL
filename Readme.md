@@ -41,7 +41,3 @@ To use these scripts:
 ## Contributions
 
 Contributions to this repository are welcome! If you have suggestions for improvements or new features related to working with APIs, NLP, or PostgreSQL, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

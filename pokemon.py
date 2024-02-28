@@ -1,6 +1,3 @@
-# https://www.pg4e.com/code/pokemon.py
-# Requires hidden.py
-
 import psycopg2
 import requests
 import hidden

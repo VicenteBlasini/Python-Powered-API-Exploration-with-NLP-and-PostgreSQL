@@ -1,4 +1,3 @@
-
 def queryValue(cur, sql, fields=None, error=None) :
     row = queryRow(cur, sql, fields, error);
     if row is None : return None

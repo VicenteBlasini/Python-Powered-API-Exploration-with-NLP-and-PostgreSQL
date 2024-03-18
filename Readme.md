@@ -33,6 +33,5 @@ To use these scripts:
 4. Update the database connection parameters in `hidden.py`.
 5. Run the desired Python script to fetch data from the PokeAPI or other sources and store it in the PostgreSQL database.
 
-## Contributions
-
-Contributions to this repository are welcome! If you have suggestions for improvements or new features related to working with APIs, NLP, or PostgreSQL, feel free to open an issue or submit a pull request.
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
